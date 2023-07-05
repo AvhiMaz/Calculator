@@ -1,3 +1,31 @@
 body{
-    background-color: black;
+    background-color : rgb(0, 0, 0);
 }
+
+.heading{
+    color : rgb(255, 255, 255);
+    text-align: center;
+}
+
+.one{
+    padding-left: 430px;
+}
+
+
+  .full-body{
+    padding-left: 240px;
+    padding-right: 250px;
+  }
+
+.box{
+    padding: 6px;
+    border-radius: 50px;
+}
+
+.butt{
+    margin: 42px;
+    padding-left: 50px ;
+    padding-right: 50px;
+}
+
+
