@@ -13,8 +13,8 @@ body{
 
 
   .full-body{
-    padding-left: 240px;
-    padding-right: 250px;
+    padding-left: 450px;
+    padding-right: 450px;
   }
 
 .box{
@@ -23,9 +23,9 @@ body{
 }
 
 .butt{
-    margin: 42px;
-    padding-left: 50px ;
-    padding-right: 50px;
-}
+    padding-right: 454px;
+    padding-left: 450px;
+    margin: 60px;
+  }
 
 
