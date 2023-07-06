@@ -4,5 +4,11 @@
 }
 
 .class-margin{
-    margin: 10rem;
+    margin: 5rem 23rem;
+    border-style: solid;
+    padding: 2rem;
+}
+
+.answer{
+  padding: 1rem;
 }
