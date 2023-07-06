@@ -27,6 +27,10 @@ function myFunction() {
             document.getElementById('demo').innerHTML = ans;
             break;
 
+        case '^':
+            ans = Math.pow(num1, num2);
+            document.getElementById('demo').innerHTML = ans;
+
         default:
             break;
     }
